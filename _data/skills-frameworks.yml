@@ -5,29 +5,29 @@
 # - name: Framework
 #   weight: 5
 
-- name: Angular
+- name: Nmap
   weight: 5
 
-- name: AngularJS
+- name: Python
   weight: 3
 
-- name: React
+- name: RubberDucky
   weight: 4
 
-- name: Node
+- name: HID
   weight: 1
 
-- name: Flutter
+- name: NFC
   weight: 2
 
-- name: Express
+- name: SearchSploit
   weight: 3
 
-- name: Django
+- name: RFID
   weight: 1
 
-- name: Spring
+- name: Watch
   weight: 2
 
-- name: Rails
+- name: Exploit
   weight: 4
