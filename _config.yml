@@ -14,9 +14,9 @@ baseurl: "/"
 username: PentWatch
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Jekyll Theme
+typing_text: Hacking...
 # email: Your E-Mail address for the email button.
-email: PentWatch@PentWatch.com
+#email: PentWatch@PentWatch.com
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
