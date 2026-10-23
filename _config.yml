@@ -42,7 +42,7 @@ about_me_description: PentWatch is a WearOS penetration-testing app that turns y
 # > setting this to false, will omit the Skills section
 show_skills_card: true
 # about_me_title: The will be displayed as the title in the Skills section
-skills_title: Actions
+#skills_title: Actions
 
 # TIMELINE SECTION
 # show_timeline_card:
@@ -53,13 +53,13 @@ show_timeline_card: true
 timeline_title: Changelog 
 #cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://gofile.io/d/TZj6T102
+download_link: https://gofile.io/d/TZj6T102
 
 # PROJECTS SECTION
 # show_projects_card:
 # > setting this to true, will display the Projects section
 # > setting this to false, will omit the Projects section
-#show_projects_card: true
+show_projects_card: true
 # show_projects:
 # > setting this to true, will display your listed projects in _data/projects.yml
 # > setting this to false, will omit your listed projects
